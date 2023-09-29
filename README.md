@@ -1,7 +1,7 @@
-<img src="https://media.tenor.com/1V8sgB4cF14AAAAM/front-end-developer-beau-carnes.gif" alt="Coder" align="center"/>
 
 <h1 align="center">Hi 👋, I'm Shikhar Singh Kushwaha</h1>
 <h3 align="center">A passionate frontend developer from India who love to Build Software .I love to listen songs in my Free Time</h3>
+<img src="https://media.tenor.com/1V8sgB4cF14AAAAM/front-end-developer-beau-carnes.gif" alt="Coder" align="right"/>
 
 - 🔭 I’m currently working on [Github Profile Finder](https://shikharsinghkushwaha.github.io/Github-Profiles/)
 
